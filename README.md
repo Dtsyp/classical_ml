@@ -15,16 +15,6 @@ The scope of this work encompasses:
 - **Preprocessing Methodologies**: In-depth exploration of data cleaning, normalization, scaling, and transformation approaches
 - **Hyperparameter Optimization**: Investigation of parameter tuning strategies and their impact on model performance
 
-## Repository Structure
-
-```
-├── notebooks/         # Jupyter notebooks with detailed experiments and analyses
-├── data/              # Datasets used for experimentation
-├── models/            # Trained model artifacts and configurations
-├── src/               # Source code for custom implementations
-└── reports/           # Technical reports and findings
-```
-
 ## Methodology
 
 The approach employed in this repository emphasizes:
